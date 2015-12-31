@@ -1,5 +1,5 @@
 // gcc -o fibc fib.c
-// Time taken 11 seconds 654 milliseconds
+// Time taken 2 seconds 739 milliseconds
 #include <stdio.h>
 #include <time.h>
 
